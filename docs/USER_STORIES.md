@@ -30,6 +30,6 @@
 - [x] Catálogo 27 productos con imagen
 - [x] Cloudinary en admin
 - [x] Rol administrador
-- [ ] Deploy backend
-- [ ] Deploy frontend
-- [ ] GitHub Project poblado
+- [x] Deploy backend
+- [x] Deploy frontend
+- [x] GitHub Project poblado
